@@ -11,7 +11,7 @@
     "express-handlebars": "^4.0.3",
     "express-session": "^1.17.1",
     "handlebars-dateformat": "^1.1.1",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "moment": "^2.25.3",
     "mysql2": "^2.1.0",
     "nodemon": "^2.0.3",
