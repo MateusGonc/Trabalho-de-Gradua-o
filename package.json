@@ -7,7 +7,7 @@
     "body-parser": "^1.19.0",
     "bootstrap-select": "^1.13.17",
     "connect-flash": "^0.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^4.0.3",
     "express-session": "^1.17.1",
     "handlebars-dateformat": "^1.1.1",
